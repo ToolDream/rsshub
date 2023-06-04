@@ -65,6 +65,14 @@
     "/0818tuan/:listId?": [
         "TonyRL"
     ],
+    "/141jav/:type?/:keyword?": [
+        "cgkings",
+        "nczitzk"
+    ],
+    "/141ppv/:type?/:keyword?": [
+        "cgkings",
+        "nczitzk"
+    ],
     "/18comic/album/:id": [
         "nczitzk"
     ],
@@ -275,6 +283,9 @@
     ],
     "/aeaweb/:id": [
         "nczitzk"
+    ],
+    "/aeon/essays": [
+        "emdoe"
     ],
     "/agefans/detail/:id": [
         "s2marine"
@@ -4624,6 +4635,9 @@
         "junfengP",
         "nczitzk"
     ],
+    "/sehuatang/user/:uid": [
+        "JamYiz"
+    ],
     "/sehuatang/:subforumid?/:type?": [
         "qiwihui",
         "junfengP",
@@ -6585,7 +6599,6 @@
     "/maxnews/dota2": [],
     "/ningmeng/song": [],
     "/zzz/:category?/:language?": [],
-    "/aeon/:cid": [],
     "/algocasts": [],
     "/aqicn/:city/:pollution?": [],
     "/maoyan/hot": [],
@@ -6996,8 +7009,6 @@
     "/jlu/oa": [],
     "/hfut/tzgg": [],
     "/onejav/:type/:key?": [],
-    "/141jav/:type/:key?": [],
-    "/141ppv/:type/:key?": [],
     "/curiouscat/user/:id": [],
     "/newsmth/account/:id": [],
     "/newsmth/section/:section": [],
