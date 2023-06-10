@@ -284,7 +284,10 @@
     "/aeaweb/:id": [
         "nczitzk"
     ],
-    "/aeon/essays": [
+    "/aeon/category/:category": [
+        "emdoe"
+    ],
+    "/aeon/:type": [
         "emdoe"
     ],
     "/agefans/detail/:id": [
@@ -1322,6 +1325,15 @@
     "/dahecube/:type?": [
         "linbuxiao"
     ],
+    "/daily/": [
+        "Rjnishant530"
+    ],
+    "/daily/discussed": [
+        "Rjnishant530"
+    ],
+    "/daily/upvoted": [
+        "Rjnishant530"
+    ],
     "/dapenti/tugua": [
         "tgly307"
     ],
@@ -1337,6 +1349,9 @@
     ],
     "/dayanzai/dayanzai/:category/:fulltext?": [
         "nitezs"
+    ],
+    "/dblp/:field": [
+        "ytno1"
     ],
     "/dbmv/:category?": [
         "kba977"
@@ -1404,6 +1419,9 @@
     ],
     "/dhu/xxgk/news": [
         "KiraKiseki"
+    ],
+    "/dhu/yjs/zs/:type?": [
+        "fox2049"
     ],
     "/diandong/news/:cate?": [
         "Fatpandac"
@@ -1479,6 +1497,9 @@
     ],
     "/dongqiudi/top_news/:id?": [
         "HendricksZheng"
+    ],
+    "/dorohedoro/news": [
+        "nczitzk"
     ],
     "/douban/book/latest": [
         "fengkx"
@@ -1675,6 +1696,9 @@
     ],
     "/eastmoney/ttjj/user/:uid": [
         "zidekuls"
+    ],
+    "/eastmoney/report/:category": [
+        "syzq"
     ],
     "/eastmoney/search/:keyword": [
         "drgnchan"
@@ -3555,6 +3579,9 @@
     "/natgeo/:cat/:type?": [
         "fengkx"
     ],
+    "/nationalgeographic/latest-stories": [
+        "miles170"
+    ],
     "/nature/cover": [
         "y9c"
     ],
@@ -3609,6 +3636,9 @@
     ],
     "/neea/:type?": [
         "SunShinenny"
+    ],
+    "/nenu/yjsy/:path+": [
+        "nczitzk"
     ],
     "/neu/bmie/:type": [
         "tennousuathena"
@@ -3802,6 +3832,9 @@
     ],
     "/nogizaka46/blog": [
         "Kasper4649"
+    ],
+    "/notateslaapp/ota": [
+        "mrbruce516"
     ],
     "/notefolio/search/:category?/:order?/:time?/:query?": [
         "BianTan"
@@ -4406,6 +4439,9 @@
     ],
     "/rarehistoricalphotos/": [
         "TonyRL"
+    ],
+    "/rattibha/user/:user": [
+        "yshalsager"
     ],
     "/reactnewsletter": [
         "meixger"
@@ -5674,6 +5710,9 @@
     "/wikinews/latest": [
         "KotoriK"
     ],
+    "/winstall/:appId": [
+        "TonyRL"
+    ],
     "/wise/pair/:source/:target": [
         "HenryQW"
     ],
@@ -6103,6 +6142,9 @@
     ],
     "/zhiy/posts/:author": [
         "TonyRL"
+    ],
+    "/zhubai/top20": [
+        "nczitzk"
     ],
     "/zhubai/:id": [
         "naixy28"
@@ -7150,7 +7192,6 @@
     "/gvm/index/:category?": [],
     "/chuapp/index/:category?": [],
     "/deloitte/industries/:category?": [],
-    "/tesla": [],
     "/fudan/cce": [],
     "/lowendtalk/discussion/:id?": [],
     "/proletar/:type?/:id?": [],
