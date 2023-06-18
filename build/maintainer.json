@@ -167,6 +167,9 @@
     "/423down/:category/:type": [
         "Fatpandac"
     ],
+    "/4ksj/forum/:id?": [
+        "nczitzk"
+    ],
     "/500px/tribe/set/:id": [
         "TonyRL"
     ],
@@ -2447,6 +2450,12 @@
     "/hackertalk/": [
         "hyoban"
     ],
+    "/hacking8/search/:keyword?": [
+        "nczitzk"
+    ],
+    "/hacking8/:category?": [
+        "nczitzk"
+    ],
     "/hackmd/profile/:path": [
         "Yukaii",
         "kaiix"
@@ -3143,6 +3152,9 @@
     "/jin10/:important?": [
         "laampui"
     ],
+    "/jin10/topic/:id": [
+        "miles170"
+    ],
     "/jisilu/:category?/:sort?/:day?": [
         "nczitzk"
     ],
@@ -3636,6 +3648,9 @@
     ],
     "/neea/:type?": [
         "SunShinenny"
+    ],
+    "/nenu/sohac/:path+": [
+        "nczitzk"
     ],
     "/nenu/yjsy/:path+": [
         "nczitzk"
@@ -4638,6 +4653,9 @@
     "/sdust/yjsy/zhaosheng/:id?": [
         "nczitzk"
     ],
+    "/sdzk/:bcid?/:cid?": [
+        "nczitzk"
+    ],
     "/secnews/index": [
         "kaiili"
     ],
@@ -5497,10 +5515,13 @@
     "/usts/juch/:type?": [
         "Fatpandac"
     ],
-    "/utgd/:category?": [
+    "/utgd/timeline": [
         "nczitzk"
     ],
     "/utgd/topic/:topic?": [
+        "nczitzk"
+    ],
+    "/utgd/:category?": [
         "nczitzk"
     ],
     "/uw/gix/news/:category": [
@@ -5754,6 +5775,12 @@
     ],
     "/wsyu/news/:type?": [
         "Derekmini"
+    ],
+    "/wtu/:type": [
+        "loyio"
+    ],
+    "/wtu/job/:type": [
+        "ticks-tan"
     ],
     "/wxkol/show/:id": [
         "TonyRL"
@@ -7251,7 +7278,6 @@
     "/growincity/news/:id?": [],
     "/thrillist/:tag?": [],
     "/dxy/vaccine/:province?/:city?/:location?": [],
-    "/wtu/:type": [],
     "/tingshen": [],
     "/gov/mohrss/sbjm/:category?": [],
     "/shinybbs/latest": [],
