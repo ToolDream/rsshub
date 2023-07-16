@@ -725,10 +725,10 @@
     "/bilibili/user/fav/:uid/:disableEmbed?": [
         "DIYgod"
     ],
-    "/bilibili/user/followers/:uid": [
+    "/bilibili/user/followers/:uid/:loginUid": [
         "Qixingchen"
     ],
-    "/bilibili/user/followings/:uid": [
+    "/bilibili/user/followings/:uid/:loginUid": [
         "Qixingchen"
     ],
     "/bilibili/user/video/:uid/:disableEmbed?": [
@@ -1432,6 +1432,9 @@
     "/dhu/jiaowu/news/:type?": [
         "KiraKiseki"
     ],
+    "/dhu/news/xsxx": [
+        "fox2049"
+    ],
     "/dhu/xxgk/news": [
         "KiraKiseki"
     ],
@@ -2096,6 +2099,9 @@
     "/gitpod/changelog": [
         "TonyRL"
     ],
+    "/globallawreview/": [
+        "nczitzk"
+    ],
     "/gocn/": [
         "AtlanCI",
         "CcccFz"
@@ -2713,6 +2719,9 @@
     "/hunanpea/rsks/:guid": [
         "TonyRL"
     ],
+    "/huoxian/zone": [
+        "p7e4"
+    ],
     "/hupu/all/:id?": [
         "nczitzk"
     ],
@@ -3266,6 +3275,9 @@
     "/kemono/posts": [
         "nczitzk"
     ],
+    "/keylol/:path+": [
+        "nczitzk"
+    ],
     "/kimlaw/thesis": [
         "TonyRL"
     ],
@@ -3469,6 +3481,9 @@
     ],
     "/macmenubar/recently/:category?": [
         "5upernova-heng"
+    ],
+    "/macupdate/app/:appId/:appSlug?": [
+        "TonyRL"
     ],
     "/magazinelib/latest-magazine/:query?": [
         "NavePnow"
@@ -4720,6 +4735,9 @@
     "/sdzk/:bcid?/:cid?": [
         "nczitzk"
     ],
+    "/sec-in/": [
+        "p7e4"
+    ],
     "/secnews/index": [
         "kaiili"
     ],
@@ -4854,6 +4872,28 @@
     ],
     "/sis001/forum/:id": [
         "TonyRL"
+    ],
+    "/sjtu/gs/:type/:num?": [
+        "dzx-dzx"
+    ],
+    "/sjtu/jwc/:type?": [
+        "SeanChao"
+    ],
+    "/sjtu/seiee/academic": [
+        "HenryQW"
+    ],
+    "/sjtu/seiee/bjwb/:type": [
+        "Polynomia"
+    ],
+    "/sjtu/seiee/xsb/:type?": [
+        "Polynomia",
+        "xxchan"
+    ],
+    "/sjtu/tongqu/:type?": [
+        "SeanChao"
+    ],
+    "/sjtu/yzb/zkxx/:type": [
+        "stdrc"
     ],
     "/skysports/news/:team": [
         "nczitzk"
@@ -6010,6 +6050,9 @@
     "/yahoo/news/:region/:category?": [
         "KeiLongW"
     ],
+    "/yangtzeu/dongke/:path+": [
+        "nczitzk"
+    ],
     "/yaohuo/": [
         "nczitzk"
     ],
@@ -6429,13 +6472,6 @@
     "/hhu/libNewsc": [],
     "/shanghaitech/activity": [],
     "/shanghaitech/sist/activity": [],
-    "/sjtu/seiee/academic": [],
-    "/sjtu/seiee/bjwb/:type": [],
-    "/sjtu/seiee/xsb/:type?": [],
-    "/sjtu/gs/tzgg/:type?": [],
-    "/sjtu/jwc/:type?": [],
-    "/sjtu/tongqu/:type?": [],
-    "/sjtu/yzb/zkxx/:type": [],
     "/ju/jwc/:type?": [],
     "/lit/jwc": [],
     "/lit/xwzx/:name?": [],
