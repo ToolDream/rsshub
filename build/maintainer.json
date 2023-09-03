@@ -1498,6 +1498,9 @@
         "nczitzk",
         "TonyRL"
     ],
+    "/deltaio/blog": [
+        "RengarLee"
+    ],
     "/devolverdigital/blog": [
         "XXY233"
     ],
@@ -4795,7 +4798,7 @@
     "/rfa/:language?/:channel?/:subChannel?": [
         "zphw"
     ],
-    "/rfi/news": [
+    "/rfi/news/:lang?": [
         "nczitzk"
     ],
     "/right/forum/:id?": [
